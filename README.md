@@ -41,7 +41,7 @@ The dataset contains the following borrower and loan information:
 
 The following tools and technologies were used for the project:
 
-* CSV/Excel: Dataset storage, inspection and initial data assessment
+* CSV/Excel dataset [Download Here](https://www.kaggle.com/datasets/laotse/credit-risk-dataset)
 * DAX for Creation of calculated columns, default rate measures and analytical indicators.
 * Power Query for data extraction, transformation and cleaning.
 * Microsoft Power BI for dashboard development, data modelling and visualisation.
