@@ -1,5 +1,17 @@
 # Credit-Risk-Analysis-
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
+
 ### Project Overview
 
 This project focuses on analysing borrower credit risk and identifying factors associated with loan defaults using Microsoft Power BI. The objective is to evaluate borrower characteristics, financial circumstances and loan attributes to identify patterns that may indicate a higher likelihood of default.
