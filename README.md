@@ -18,6 +18,8 @@ This project focuses on analysing borrower credit risk and identifying factors a
 An interactive Credit Risk Analysis Dashboard was developed to help financial institutions, credit analysts and management understand default patterns, assess lending risks and support better credit approval and portfolio management decisions.
 The analysis focuses on default rates across borrower age groups, income categories, homeownership status, loan burden categories and length of employment.
 
+<img width="757" height="441" alt="WhatsApp Image 2026-11-04 at 23 26 54 (1)" src="https://github.com/user-attachments/assets/464cfa6a-d0a7-4866-9ca9-4d88570ddc2e" />
+
 ### Data Sources
 
 The project uses the loan application and credit risk dataset obtained from Kaggle.
